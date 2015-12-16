@@ -7,5 +7,5 @@
 
 #### Interface example - For the home work
 
-- See [MainActivity](app/src/main/java/com/bentals/class8/MainActivity.java) and [Fragment1](app/src/main/java/com/bentals/class8/Fragment1.java) fro an interface example.
+- See [MainActivity](app/src/main/java/com/bentals/class8/MainActivity.java) and [Fragment1](app/src/main/java/com/bentals/class8/Fragment1.java) for an interface example.
 In the home work the CustomView will be like the fragment in this example.
