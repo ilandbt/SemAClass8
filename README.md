@@ -3,6 +3,7 @@
 - See [MainActivity](app/src/main/java/com/bentals/class8/MainActivity.java) for fragment tranactions.
 - See [Fragment1](app/src/main/java/com/bentals/class8/Fragment1.java) and [Fragment2](app/src/main/java/com/bentals/class8/Fragment2.java) for fragments.
 - See [MainInterface](app/src/main/java/com/bentals/class8/MainInterface.java) for the interface decleration.
+- See [anim](app/src/main/res/anim) for the animation transition files.
 
 
 #### Interface example - For the home work
